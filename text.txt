@@ -1,0 +1,74 @@
+javascript is a partial progrsmming lsnguage
+
+STATEMENT 2 TA:
+
+1.conditional statement-conditon true hole execute hobe otherwise hobe na
+kono 1 ba 1kadhik statement k conditonal statement korar jonno 4 ta syntax
+if,if-else,if-else-if,switch
+2.repeated statement
+
+1 ta line barbar execute korar jonno repeated statement r syntax use korbo
+for,while,do-while,for-in
+
+FUNCTION
+
+user r kach theke input nie kaj korte hobe
+
+web development vashy function is a block of code\
+jar 1 ta nirdristo kaj ase ja reuse kora jay
+1function is a block of code
+2.nirdristo kaj ase
+3.REuse kora jay
+4.cannot work himself
+5.have to call
+6.function can return
+
+camera die chobi tola jay ata 1 ta function
+
+A FUNCTION HAS TWO PART
+1.defination
+2.calling
+
+Function are two type
+1.built in
+2.user define
+
+function demo(){
+    body
+}
+
+demo ()
+
+
+EVENT
+
+1 jon visitor mouse r courser othoba keybord nie 1 ta site a ja kicu korbe tai e event
+
+choto choto ghotona hosce event ghonata gulo ghote html er tag r upor
+event ghote html r element r upor
+
+EVENT ATTRIBUTE
+
+event define ba event gulo k bornona korar jonno j attribute gulo k use kora hoy tader k event attribute bola hoy.
+
+event: kono kicur upor click kora ,mouse rakha,type kora,tab chapa,scroll kora,sob e event
+
+1 1 ta event r alada alada nam ase.event r nam gulo event attribute theke astece.
+
+event gular nam provide kortece event r nam
+
+html a 'o' die joto attribute ase sob e event attribute
+
+Event ta k define kortece event attribute
+
+actually client r sathe web content r commmunication hosce event dara r ami event take bornona korte chaile dorkar hosce event attribute
+event r through theke communication hosce
+
+
+EVENT ATTACH IN HTML ELEMENT
+
+PHP- from the new boston youtube channel
+
+
+
+
